@@ -1,5 +1,5 @@
 // ******** Base Url **********
-export const baseUrl = "http://upskilling-egypt.com:3000/api/v0";
+export const baseUrl = "https://upskilling-egypt.com:3000/api/v0";
 // ***********home chart**********
 export const homeChart = `${baseUrl}/admin/dashboard`
 
@@ -11,7 +11,7 @@ export const regisrterUrl = `${baseUrl}/admin/users`;
 export const resetPassUrl = `${baseUrl}/admin/users/reset-password`;
 // ******** forget-Password ********
 export const forgetPassUrl = `${baseUrl}/admin/users/forgot-password`;
-// ******** Change-Password ********
+// ******** Change-Password ********roo
 export const changePassUrl = `${baseUrl}/admin/users/change-password`;
 // export const forgetPassUrl = `${baseUrl}/admin/users/forgot-password`;
 // ******** users-url ********
